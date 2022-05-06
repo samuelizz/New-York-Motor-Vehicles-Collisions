@@ -26,3 +26,31 @@ Each section focused on the victim type and also the cause of their deaths.
 
 #### OVERVIEW
 ![Overview](https://user-images.githubusercontent.com/70443173/167213172-45f2c7bd-509a-4ab6-bf4b-8287da43c086.png)
+
+From the overview ;
+* Most of the collision was from the `Driver Inattention / Distraction` 
+* The collision rate dropped drastically at the beginning of 2020 which makes sense because of the pandemic (less people driving).
+
+#### MOTORISTS ANALYSIS
+![Motorist](https://user-images.githubusercontent.com/70443173/167216116-2d60fc44-0201-4dbc-b279-e60606df33a6.png)
+* `Unsafe Speed` was the top cause of collision which led to motorists deaths.
+* Most collisions occur on `weekends (saturday & sunday)` and at late night.
+
+#### PEDESTRIANS ANALYSIS
+![Pedestrians](https://user-images.githubusercontent.com/70443173/167216698-1b977f51-26dc-44bb-a13e-b50619710c18.png)
+* Most collisions cause were `Unspecified`
+* Most collisons also occur at late night
+
+#### CYCLISTS ANALYSIS
+![Cyclist](https://user-images.githubusercontent.com/70443173/167217098-dc3d6b58-83a4-44fd-8913-fed5b16276d7.png)
+* `Driver Inattention / Distraction` was the top cause of collision which led to cyclists deaths.
+* Most collisions also occured at late night.
+
+### RECOMMENDATIONS
+* Since most collisions were caused by `Driver Inattention / Distraction`, there should be fine/charges for such distractions.
+* More traffic wardens should be deployed during hours and days with most collisons.
+* Areas with more collisions should have more traffic wardens and rules to be followed strictly.
+* There should also be speed regulator in areas with high collisions.
+
+
+
