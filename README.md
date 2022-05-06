@@ -1,4 +1,4 @@
-# New-York-Motor-Vehicles-Collison
+# New-York-Motor-Vehicles-Collisions
 Link to Interactive Dashboard : [Tableau](https://public.tableau.com/app/profile/ogunwemimo.olajide/viz/NewYorkCityMotorVehiclesCollision/Overview)
 
 
